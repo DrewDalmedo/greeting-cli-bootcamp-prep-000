@@ -5,5 +5,3 @@ def greeting(name)
 end
 
 puts "Hi! I'm HAL, what's your name?"
-user_name = gets
-greeting(user_name)
